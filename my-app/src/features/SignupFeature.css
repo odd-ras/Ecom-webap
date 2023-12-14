@@ -1,0 +1,7 @@
+.signup-page__feature {
+  height: 80vh;
+  width: 100vw;
+  background-image: url("../assets/images/bg-img-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

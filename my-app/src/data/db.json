@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "kelvin",
+      "email": "oddras@gmail.com",
+      "password": 1234
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1235",
+      "id": 2
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1235",
+      "id": 3
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1235",
+      "id": 4
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1235",
+      "id": 5
+    },
+    {
+      "username": "karen",
+      "email": "karen@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 6
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 7
+    },
+    {
+      "username": "kelvin",
+      "email": "kelvin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 8
+    },
+    {
+      "username": "kelvin",
+      "email": "knyakango@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 9
+    }
+  ]
+}

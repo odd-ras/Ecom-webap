@@ -1,0 +1,12 @@
+.root-navigation__navlink a {
+  color: #ffc107;
+  text-decoration: none;
+}
+
+.root-navigation__navlink a:hover {
+  background-color: #dc3545;
+}
+
+.root-navigation__navlink a:active {
+  background-color: #6c757d;
+}
